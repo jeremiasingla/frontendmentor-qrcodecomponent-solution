@@ -39,7 +39,7 @@
   }
 
   .containerCard {
-    padding: 0.625rem;
+    padding: 1.25rem 0.625rem;
     width: 25rem;
     background-color: hsl(0, 0%, 100%);
     border-radius: 16px;
